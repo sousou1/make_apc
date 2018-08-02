@@ -1,6 +1,5 @@
 # make_apc
 
-====
 ストカスティック演算に用いるAPC(https://ieeexplore.ieee.org/document/540843/)
 のシミュレーターおよびVelilogHDL作成ツール
 ## apc.py
